@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Wechat</string>
+    <string name="title_chats">Chats</string>
+    <string name="title_contacts">Contacts</string>
+    <string name="title_Discover">Discover</string>
+</resources>
