@@ -1,0 +1,16 @@
+//广播是一种消息的传递方式,一对多.安卓中消息对应intent //   四大组件 Activity,Service,BroadcastReceiver
+
+
+intent a 到b
+intent 嵌套
+intent action  给别名不暴露class,暴露会被override
+
+
+
+        ratingBar.setOnRatingBarChangeListener((ratingBar1, rating, fromUser) -> textView.setText(String.format("您已给出%s星", rating)));
+        ratingBar.setOnRatingBarChangeListener(new RatingBar.OnRatingBarChangeListener() {
+            @Override
+            public void onRatingChanged(RatingBar ratingBar, float rating, boolean fromUser) {
+                textView.setText(String.format("您已给出%s星", rating));
+            }
+        });

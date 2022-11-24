@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Record/code/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_data.xml" value="0.1" />
+        <entry key="..\:/Record/code/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_database.xml" value="0.1" />
+        <entry key="..\:/Record/code/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Record/code/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Record/code/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main3.xml" value="0.136" />
+        <entry key="..\:/Record/code/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main4.xml" value="0.1" />
+        <entry key="..\:/Record/code/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main5.xml" value="0.264" />
+        <entry key="..\:/Record/code/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_music.xml" value="0.12335359675785208" />
+        <entry key="..\:/Record/code/AndroidStudioProjects/MyApplication/app/src/main/res/layout/content_main.xml" value="0.13179347826086957" />
+        <entry key="..\:/Record/code/AndroidStudioProjects/MyApplication/app/src/main/res/layout/ent.xml" value="0.129981884057971" />
+        <entry key="..\:/Record/code/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_first.xml" value="0.4" />
+        <entry key="..\:/Record/code/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_second.xml" value="0.4" />
+        <entry key="..\:/Record/code/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item.xml" value="0.12335359675785208" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
